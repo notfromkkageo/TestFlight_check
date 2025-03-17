@@ -52,6 +52,11 @@ jobs:
               name: 'Norton 360 Security VPN',
               url: 'https://testflight.apple.com/join/iHcEgAaT',
               statusFile: 'status_norton.txt'
+            },
+            {
+              name: 'Call of Duty Mobile',
+              url: 'https://testflight.apple.com/join/6rq9R7pT',
+              statusFile: 'status_cod.txt'
             }
           ];
           
