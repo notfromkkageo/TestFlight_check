@@ -2,9 +2,8 @@ name: Check Multiple TestFlight Betas
 
 on:
   schedule:
-    # Run every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 jobs:
   check-betas:
