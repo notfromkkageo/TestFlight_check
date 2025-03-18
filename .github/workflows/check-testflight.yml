@@ -34,11 +34,6 @@ jobs:
           // Define the apps to monitor
           const apps = [
             {
-              name: 'X',
-              url: 'https://testflight.apple.com/join/8cHsaMrX',
-              statusFile: 'status_x.txt'
-            },
-            {
               name: 'Telegram',
               url: 'https://testflight.apple.com/join/u6iogfd0',
               statusFile: 'status_telegram.txt'
