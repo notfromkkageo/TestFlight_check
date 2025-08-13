@@ -34,19 +34,9 @@ jobs:
           // Define the apps to monitor
           const apps = [
             {
-              name: 'Telegram',
-              url: 'https://testflight.apple.com/join/u6iogfd0',
-              statusFile: 'status_telegram.txt'
-            },
-            {
-              name: 'Duolingo',
-              url: 'https://testflight.apple.com/join/Sq8bYSnJ',
-              statusFile: 'status_duolingo.txt'
-            },
-            {
-              name: 'Norton 360 Security VPN',
-              url: 'https://testflight.apple.com/join/iHcEgAaT',
-              statusFile: 'status_norton.txt'
+              name: 'ExpressVPN',
+              url: 'https://testflight.apple.com/join/6flRfmYW',
+              statusFile: 'status_expressvpn.txt'
             }
           ];
           
