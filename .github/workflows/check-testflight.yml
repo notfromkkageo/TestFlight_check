@@ -37,11 +37,6 @@ jobs:
               name: 'ExpressVPN',
               url: 'https://testflight.apple.com/join/6flRfmYW',
               statusFile: 'status_expressvpn.txt'
-            },            
-            {
-              name: 'Discord',
-              url: 'https://testflight.apple.com/join/gdE4pRzI',
-              statusFile: 'status_discord.txt'
             }
           ];
           
